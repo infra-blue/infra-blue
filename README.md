@@ -2,9 +2,9 @@
 
 My name is Leonardo and I'm a passionate university student at UniCT.
 
-<h3 align="center">What I use:</h3>
+<h3 align="left">What I use:</h3>
 
-![My Skills](https://skillicons.dev/icons?i=c,cpp,python,arduino,vscode,docker,git,github,linux,kali,windows)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=kali,windows,git,github,docker,c,cpp,python,lua,bash,platformio,arduino,wireshark,burpsuite,hackthebox)
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=infra-blue&hide_border=true&theme=transparent&show_icons=true&locale=en" alt="infra-blue" /></p>
 
